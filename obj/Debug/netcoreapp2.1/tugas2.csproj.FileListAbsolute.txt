@@ -1,0 +1,4 @@
+/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas2/tugas2/obj/Debug/netcoreapp2.1/tugas2.csprojAssemblyReference.cache
+/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas2/tugas2/obj/Debug/netcoreapp2.1/tugas2.csproj.CoreCompileInputs.cache
+/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas2/tugas2/obj/Debug/netcoreapp2.1/tugas2.AssemblyInfoInputs.cache
+/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas2/tugas2/obj/Debug/netcoreapp2.1/tugas2.AssemblyInfo.cs
